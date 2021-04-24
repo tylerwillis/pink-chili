@@ -23,7 +23,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - title: Favorite Essays
-    subtitle: blog
+    subtitle: Blog
     actions:
       - label: lorem-ipsum
         url: '#'
