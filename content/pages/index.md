@@ -35,7 +35,7 @@ sections:
         no_follow: false
         type: action
     blog_feed_cols: three
-    enable_cards: false
+    enable_cards: true
     show_recent: false
     recent_count: 3
     show_date: true
