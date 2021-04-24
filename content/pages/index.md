@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Tyler.'
     subtitle: >-
-      I co-founded Unsupervised, which helps companies analyze their data and
-      find ways to improve their business. I also invest in startups and teach
-      Skilled Optimism.
+      I'm a founder, an investor, and a believer in the practice of Skilled
+      Optimism.
     actions:
       - label: Contact Me
         url: /contact
