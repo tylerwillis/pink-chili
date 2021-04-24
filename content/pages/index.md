@@ -22,7 +22,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-  - title: lorem-ipsum
+  - title: Favorite Essays
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
