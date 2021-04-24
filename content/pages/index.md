@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Tyler.'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      I co-founded Unsupervised, which helps companies analyze their data and
+      find ways to improve their business. I also invest in startups and teach
+      Skilled Optimism.
     actions:
       - label: Contact Me
         url: /contact
