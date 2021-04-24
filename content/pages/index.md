@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Tyler.'
-    subtitle: >-
-      I'm building Unsupervised, investing in startups, and encouraging people
-      to be more optimisitic.
+    subtitle: I'm a founder
     actions:
       - label: Contact Me
         url: /contact
