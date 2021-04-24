@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Tyler.'
     subtitle: >-
-      I'm the co-founder of Unsupervised, which helps companies analyze their
-      data and add millions to their bottom line.
+      I'm building Unsupervised, investing in startups, and encouraging people
+      to be more optimisitic.
     actions:
       - label: Contact Me
         url: /contact
