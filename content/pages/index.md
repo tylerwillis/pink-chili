@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Tyler.'
-    subtitle: I'm a founder
+    subtitle: >-
+      I believe we all deserve access to skills and tools that help us improve
+      the world.
     actions:
       - label: Contact Me
         url: /contact
